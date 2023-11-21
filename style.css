@@ -113,3 +113,9 @@ button {
     font-size: 0.7rem;
   }
 }
+
+@media (max-width: 550px) {
+  #stopWatch {
+    font-size: 0.9rem;
+  }
+}
