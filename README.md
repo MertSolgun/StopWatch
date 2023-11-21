@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/MertSolgun/StopWatch/assets/115940928/8729fa38-3a49-40f5-b7d3-a3e77a4e610d" width="30%">  
-</p>
+
 <h1 align="center">Stopwatch and Current Time Display
 <a href="https://stop-watch-jade.vercel.app/">👉🏻Live</a>
 </h1>
