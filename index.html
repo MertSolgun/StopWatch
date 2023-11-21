@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Stopwatch</title>
+    <link rel="stylesheet" href="./style.css" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=0.8"
+    />
+    <link rel="icon" type="image/x-icon" href="./306836.png" />
+  </head>
+  <body>
+    <div class="clock">
+      <div class="main">
+        <div class="dateandstop">
+          <div class="date"></div>
+          <div class="dateclock"></div>
+          <div id="stopWatch">00:00:00:00</div>
+        </div>
+
+        <div class="buttonMain">
+          <button id="play"></button>
+          <button id="stop"></button>
+          <button id="reset">Reset</button>
+        </div>
+      </div>
+    </div>
+
+    <audio src="./start.mp3" id="startAudio"></audio>
+    <audio src="./stop.mp3" id="stopAudio"></audio>
+    <audio src="./reset.mp3" id="resetAu"></audio>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
