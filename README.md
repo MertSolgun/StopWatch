@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://github.com/MertSolgun/StopWatch/assets/115940928/8729fa38-3a49-40f5-b7d3-a3e77a4e610d">  
+  <img src="https://github.com/MertSolgun/StopWatch/assets/115940928/8729fa38-3a49-40f5-b7d3-a3e77a4e610d" width="30%">  
 </p>
-<h1 align="center">StopWatch
+<h1 align="center">Stopwatch and Current Time Display
 <a href="https://stop-watch-jade.vercel.app/">👉🏻Live</a>
 </h1>
 
 
-
-<h1 align="center">Stopwatch and Current Time Display</h1>
 
 <p ">
 This project features a simple yet functional stopwatch with added current date and time display capabilities. The script, written in JavaScript, offers start, stop, and reset functionalities for the stopwatch, alongside displaying the current date and time.  
