@@ -109,4 +109,7 @@ button {
   .clock {
     left: 57% !important;
   }
+   #stopWatch {
+    font-size: 1rem;
+  }
 }
