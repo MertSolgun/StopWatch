@@ -22,3 +22,4 @@ This project features a simple yet functional stopwatch with added current date 
 
 
 
+![Ekran Resmi 2023-11-22 14 15 23](https://github.com/MertSolgun/StopWatch/assets/115940928/848183e0-71da-4aaa-b2a6-6f151b3c5719)
