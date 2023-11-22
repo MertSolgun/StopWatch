@@ -18,7 +18,7 @@ This project features a simple yet functional stopwatch with added current date 
   
 </ul>
 
-<video src="https://github.com/MertSolgun/StopWatch/assets/115940928/b4afc16e-69b4-4d76-a4a3-3780bfde4fd6">
+
 
 
 
